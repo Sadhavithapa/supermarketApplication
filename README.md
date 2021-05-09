@@ -8,6 +8,20 @@ This application is for SUPERMARKET BILLING . Providing customers a way for easy
 
 This project is a starting point for a our first Flutter application.
 Here are some snapshots for our application.
+<p float='left'>
+<img src="images/welcomepage.png" width  ="300" height="600">
+<img src="images/cartpage (2).png" width  ="300" height="600">
+</p>
+<img src="images/signinpage.png" width  ="300" height="600">
+<p float='left'>
+<img src="images/homepage.png" width  ="300" height="600">
+<img src="images/Screenshot_1620533125.png" width  ="300" height="600">
+</p>
+<p float='left'>
+<img src="images/itemdetails1.png" width  ="300" height="600">
+<img src="images/itemdetails2.png" width  ="300" height="600">
+ </p>
+<img src="images/cartpage (1).png" width  ="300" height="600">
 
 
 
