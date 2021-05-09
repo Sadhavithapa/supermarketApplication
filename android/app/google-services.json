@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179323697707",
+    "project_id": "supermarketbilling-cdf0b",
+    "storage_bucket": "supermarketbilling-cdf0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179323697707:android:00c4e9249045317778486e",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179323697707-4895n7qg97t1rqr8ncnfadap9av7p2sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_app",
+            "certificate_hash": "ed211867a4a131ee905a03580da5e008eb6b4fdd"
+          }
+        },
+        {
+          "client_id": "179323697707-eov64k0knm28k95gqvp9jj5g1dkksfro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAqaLqeiBHCJCXiBSfczkdFvHJ2jtJQjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179323697707-eov64k0knm28k95gqvp9jj5g1dkksfro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
