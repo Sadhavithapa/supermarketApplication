@@ -4,6 +4,7 @@ This application is for SUPERMARKET BILLING . Providing customers a way for easy
 
 For the backend we used Firebase which is Google's mobile platform that helps you quickly develop high-quality apps and used to grow your business. It was used to store the details of our products, User informations, login details and other things.
 
+For now the customer are only given option to pay at counter but later we can add online payment methods which will be more fesible for customer and many prefer online payment  methods.
 
 
 ## Getting Started
